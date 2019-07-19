@@ -3,10 +3,10 @@
 	"Prefix": "~Event",
 	"MonthInt": 360000,
 	"DayInt": 3600000,
-	"MonthLink": "https://wad0.000webhostapp.com/tests/Events/Month",
-	"EventLink": "https://wad0.000webhostapp.com/tests/Events/",
+	"MonthLink": "link to month json",
+	"EventLink": "link to event folders",
 	"AddLink": "temp",
-	"ChannelPost": "testzone",
+	"ChannelPost": "channel",
 	"RoleAttendant": "Event_attendant",
 	"RoleHolder": "Event_holder"
 }
