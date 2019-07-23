@@ -82,4 +82,4 @@ Warning: You might get frustrated :(
 First of all you need to have an reachable webserver online. 
 
 ## Join Me
-<img>[![Discord Badge](https://github.com/Rayzr522/ProjectResources/raw/master/RayzrDev/badge-small.png)](https://discord.io/rayzrdevofficial)
+
