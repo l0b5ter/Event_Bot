@@ -26,6 +26,7 @@ Download the folder Event_Bot with all the containing files and extract the zip 
 <img>[![Event config](https://wad0.000webhostapp.com/images/Event_bot/Event_config.PNG)](https://wad0.000webhostapp.com/images/Event_bot/Event_config.PNG)
 
 This file contains everything you need to mess with. Lets take each line.
+
 /--------------------------------------------------------------------------\
 
 
@@ -55,6 +56,7 @@ RoleHolder: Only persons with this role will be able to add a new event. This mu
 LocalLink: To the a local event file so the bot can write and read events to it from the chat.
 
 I hope that wasnt to confusing^^
+
 \--------------------------------------------------------------------------/
 
 ## Join Me
