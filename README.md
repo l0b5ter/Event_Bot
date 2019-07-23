@@ -5,7 +5,7 @@ However this is a public bot, which means that every server that this bot is in 
 
 ## Features
 - Manage events (configurable config file)
-- Alerts of events starting (configurable time and date)
+- Alert by events starting (configurable time and date)
 
 ### Self Hosting
 
@@ -79,7 +79,7 @@ This is the best way to use the bot, beacuse without a webserver all events are 
 
 Warning: You might get frustrated :(
 
-First of all you need to have an reachable webserver online. 
+First of all you need to have an reachable online webserver. 
 
 ## Join Me
 
