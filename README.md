@@ -4,10 +4,8 @@
 However this is a public bot, which means that every server that this bot is in will be able to join your event. This is both good and bad. But if you want to host events for just your server, then you have to host the bot on your own(Self Hosting).
 
 ## Features
-- Announces users that join (configurable message)
-- Alerts server owner when a user joins
-- Keeps track of users' ranks (similar to Mee6)
-- Other stuff, too lazy to type it up.
+- Manage events (configurable config file)
+- Alerts of events starting (configurable time and date)
 
 ### Self Hosting
 
@@ -76,6 +74,12 @@ I hope that wasnt too confusing^^
 If you did everything above you could try open the start_bot.bat. Getting 'The bot is Online!' and 'Bot has loaded successfully. We\'re in business!' means that the bot is ready to do its part. However if you get a error, take a look above again or ask me^^
 
 
+### Using Web server
+This is the best way to use the bot, beacuse without a webserver all events are saved as memory in the bot. So on restart or crash all events will be eraesed. However with a webserver you will only lose 1 day at most. The bad part about this is that it takes more time to set up, and you have to use everything in the config file. 
+
+Warning: You might get frustrated :(
+
+First of all you need to have an reachable webserver online. 
 
 ## Join Me
 <img>[![Discord Badge](https://github.com/Rayzr522/ProjectResources/raw/master/RayzrDev/badge-small.png)](https://discord.io/rayzrdevofficial)
