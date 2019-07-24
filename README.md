@@ -5,18 +5,18 @@ However this is a public bot, which means that every server that this bot is in 
 
 ## Features
 - Manage events
-- Alert by events starting (configurable time and date)
-- High configurable config file
+- Alerted by events starting (configurable time and date)
+- Highly configurable config file
 
 ### Self Hosting
 
-SO YOU DONT WANNA SHARE YOUR SERVER EVENTS?????
-Do you know what self hosting means? It basically mean you have to host it on your computer/server where the bot is always running (console window open). If the bot goes offline, you have to get it online again and take the 
-consequences of eraesed events... Anyway lets jump into how to get it up and running.
+So, dont you want to share your server events?????
+Do you know what self hosting means? It basically means you have to host it on your computer/server where the bot is always running (console window open). If the bot goes offline, you have to get it online again and take the 
+consequences of erased events... Anyway lets jump into how to get it up and running.
 
 
 #### 1. Nodejs
-Be sure you have installed Nodejs(https://nodejs.org/en/), if not the bot wont work.
+Be sure you have installed Nodejs(https://nodejs.org/en/). If not, the bot wont work.
 
 
 #### 2. Download Zip
@@ -25,7 +25,7 @@ Download the folder Event_Bot with all the containing files and extract the zip 
 
 
 #### 3. Set up roles and channel
-This bot post the events to a specific channel, so make a new one dedicated to this or use a already exsiting one. However adding events and role management are done anywhere. 
+This bot posts the events to a specific channel, so make a new one dedicated to this or use a already exsiting one. However adding events and role management are done anywhere. 
 
 
 Make a role so the bot can ping events thats starting.
@@ -46,7 +46,7 @@ Token: here you put your bot token.
 
 Prefix: here is the prefix for the bot, as default this is set to '~Event'.
 
-Web: This is probably on of the things thats easy to forget. This sud only be 'true' or 'false' nothing else! It just want to know if the bot is gonna use a web server or not. Head down to Webserver() if you want to read more. Set to false if not using web server.
+Web: This is probably on of the things thats easy to forget. This sud only be 'true' or 'false' nothing else! It just wants to know if the bot is gonna use a web server or not. Head down to Webserver() if you want to read more. Set to false if not using web server.
 
 MonthInt: if you set Web to false this point doesnt matter, just leave it as default.
 
@@ -68,7 +68,7 @@ LocalLink: To the a local event file so the bot can write and read events to it 
 
 \--------------------------------------------------------------------------/
 
-I hope that wasnt too confusing^^
+I hope that wasn't too confusing^^
 
 
 #### 5. Done?
@@ -76,12 +76,11 @@ If you did everything above you could try open the start_bot.bat. Getting 'The b
 
 
 ### Using Web server
-This is the best way to use the bot, beacuse without a webserver all events are saved as memory in the bot. So on restart or crash all events will be eraesed. However with a webserver you will only lose 1 day at most. The bad part about this is that it takes more time to set up, and you have to use everything in the config file. 
+This is the best way to use the bot, because without a webserver all events are saved as memory in the bot. So on restart or crash all events will be erased. However with a webserver you will only lose 1 day at most. The bad part about this is that it takes more time to set up, and you have to use everything in the config file. 
 
 Warning: You might get frustrated :(
 
-First of all you need to have an reachable online webserver. 
-ok?
+First of all you need to have an reachable online webserver, ok?
 
 #### Config json
 <img>[![Event configEm](https://wad0.000webhostapp.com/images/Event_bot/Event_config1.PNG)](https://wad0.000webhostapp.com/images/Event_bot/Event_config1.PNG)
@@ -100,7 +99,7 @@ MonthLink: This is the adresse link to where your Month.json file are.
 
 DayLink: Adresse link to where the bot sud start looking for the events. (from code: EventLink + CuMonth +'/'+ date +'.json').
 
-AddLink: When the bot doesnt find any events on the current day, it will post a embed with a link where you could add more events. Here you put this link to add events.
+AddLink: When the bot doesn't find any events on the current day, it will post a embed with a link where you could add more events. Here you put this link to add events.
 
 \--------------------------------------------------------------------------/
 
@@ -120,7 +119,7 @@ Inside each month numbers theres all the days.
 Here you put the current month and which day it is.
 
 #### Done?
-If it succesful manages to grab the events from your web server, you've done well. Only left is to set up a proper page for adding events (Php?). Just ask if you wanna see why page or need help^^
+If it successfully manages to grab the events from your web server, you've done well. Only left is to set up a proper page for adding events (Php?). Just ask if you wanna see why page or need help^^
 
 ### Next update
 - Instead of saving events to local file from the chat, use save to webserver.
