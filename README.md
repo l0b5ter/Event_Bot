@@ -128,4 +128,4 @@ If it succesful manages to grab the events from your web server, you've done wel
 - Easier web server setup and management
 
 ## Join Me
-<img>[![DiscordLink](https://wad0.000webhostapp.com/images/Event_bot/Event_month.PNG)](https://discord.io/JrHcNuE)
+<img>[![DiscordLink](https://wad0.000webhostapp.com/images/Logo_WiAD.png)](https://discord.io/JrHcNuE)
