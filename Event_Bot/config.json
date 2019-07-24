@@ -1,13 +1,13 @@
 {
-	"token": "NTk0ODYzOTA2MjI1MjU4NTA1.XTGs6g.Jo-OdymvDMIWBGf5rx8FHKDoltU",
+	"token": "",
 	"Prefix": "~Event",
 	"Web": false,
 	"MonthInt": 360000,
-	"DayInt": 3600000,
-	"MonthLink": "https://wad0.000webhostapp.com/tests/Events/Month",
-	"EventLink": "https://wad0.000webhostapp.com/tests/Events/",
+	"DayInt": 86400000,
+	"MonthLink": "",
+	"EventLink": "",
 	"AddLink": "temp",
-	"ChannelPost": "testzone",
+	"ChannelPost": "Events",
 	"RoleAttendant": "Event_attendant",
 	"RoleHolder": "Event_holder",
 	"LocalLink": "./MsgEvents"
