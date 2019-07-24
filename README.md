@@ -4,8 +4,9 @@
 However this is a public bot, which means that every server that this bot is in will be able to join your event. This is both good and bad. But if you want to host events for just your server, then you have to host the bot on your own(Self Hosting).
 
 ## Features
-- Manage events (configurable config file)
+- Manage events
 - Alert by events starting (configurable time and date)
+- High configurable config file
 
 ### Self Hosting
 
