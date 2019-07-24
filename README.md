@@ -45,7 +45,7 @@ Token: here you put your bot token.
 
 Prefix: here is the prefix for the bot, as default this is set to '~Event'.
 
-Web: This is probably on of the things thats easy to forget. This sud only be 'true' or 'false' nothing else! It just want to know if the bot is gonna use a web server or not. Head down to Webserver() if you want to read more.
+Web: This is probably on of the things thats easy to forget. This sud only be 'true' or 'false' nothing else! It just want to know if the bot is gonna use a web server or not. Head down to Webserver() if you want to read more. Set to false if not using web server.
 
 MonthInt: if you set Web to false this point doesnt matter, just leave it as default.
 
@@ -80,6 +80,28 @@ This is the best way to use the bot, beacuse without a webserver all events are 
 Warning: You might get frustrated :(
 
 First of all you need to have an reachable online webserver. 
+ok?
+
+#### Config json
+<img>[![Event config](https://wad0.000webhostapp.com/images/Event_bot/Event_config.PNG)](https://wad0.000webhostapp.com/images/Event_bot/Event_config.PNG)
+
+/--------------------------------------------------------------------------\
+
+
+
+Web: Instead of setting this to 'false', set it to 'true' this time. (Now the bot will try to grab the events from your webserver).
+
+MonthInt: This defines how often it checks the online month.json file. This contains the current month and which day it sud start at. You have to change the month variable each month.
+
+DayInt: This defines how long 1 day is. After that it tries to grab the next day events. (set as miliseconds as int). Default: 86400000
+
+MonthLink: This is the adresse link to where your month.json file are.
+
+DayLink: Adresse link to where the bot sud start looking for the events. (from code: EventLink + CuMonth +'/'+ date +'.json').
+
+AddLink: When the bot doesnt find any events on the current day, it will post a embed with a link where you could add more events. Here you put this link to add events.
+
+\--------------------------------------------------------------------------/
 
 ## Join Me
 
