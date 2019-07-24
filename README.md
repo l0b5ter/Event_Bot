@@ -95,7 +95,7 @@ MonthInt: This defines how often it checks the online month.json file. This cont
 
 DayInt: This defines how long 1 day is. After that it tries to grab the next day events. (set as miliseconds as int). Default: 86400000
 
-MonthLink: This is the adresse link to where your month.json file are.
+MonthLink: This is the adresse link to where your Month.json file are.
 
 DayLink: Adresse link to where the bot sud start looking for the events. (from code: EventLink + CuMonth +'/'+ date +'.json').
 
@@ -107,7 +107,19 @@ AddLink: When the bot doesnt find any events on the current day, it will post a 
 #### Folders
 <img>[![Event Files1](https://wad0.000webhostapp.com/images/Event_bot/Event_files1.PNG)](https://wad0.000webhostapp.com/images/Event_bot/Event_files1.PNG)
 
-Where the folders (red square around) is the months, and the month
+Where the folders (red square around) is the months in numbers, and the json file is your Month.json file (MonthLink).
+
+<img>[![Event Files2](https://wad0.000webhostapp.com/images/Event_bot/Event_files2.PNG)](https://wad0.000webhostapp.com/images/Event_bot/Event_files2.PNG)
+
+Inside each month numbers theres all the days.
+
+#### Month.json
+<img>[![Event month](https://wad0.000webhostapp.com/images/Event_bot/Event_month.PNG)](https://wad0.000webhostapp.com/images/Event_bot/Event_month.PNG)
+
+Here you put the current month and which day it is.
+
+#### Done?
+If it succesful manages to grab the events from your web server, you've done well. Only left is to set up a proper page for adding events (Php?). Just ask if you wanna see why page or need help^^
 
 ## Join Me
 
