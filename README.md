@@ -1,5 +1,5 @@
 # Event_Bot
-The Event allows you to set up upcoming events in your server and then notify your members of those events when they happen!
+The Event_bot allows you to set up upcoming events in your server and then notify your members of those events when they happen!
 
 However this is a public bot, which means that every server that this bot is in will be able to join your event. This is both good and bad. But if you want to host events for just your server, then you have to host the bot on your own(Self Hosting).
 
