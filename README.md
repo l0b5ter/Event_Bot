@@ -33,7 +33,7 @@ Make a role so the bot can manage who can add events.
 
 
 #### 4. Config json
-<img>[![Event config](https://wad0.000webhostapp.com/images/Event_bot/Event_configEm.PNG)](https://wad0.000webhostapp.com/images/Event_bot/Event_config.PNG)
+<img>[![Event config](https://wad0.000webhostapp.com/images/Event_bot/Event_configEm.PNG)](https://wad0.000webhostapp.com/images/Event_bot/Event_configEm.PNG)
 
 This file contains everything you need to mess with. Lets take each line.
 
@@ -83,7 +83,7 @@ First of all you need to have an reachable online webserver.
 ok?
 
 #### Config json
-<img>[![Event configEm](https://wad0.000webhostapp.com/images/Event_bot/Event_config1.PNG)](https://wad0.000webhostapp.com/images/Event_bot/Event_config.PNG)
+<img>[![Event configEm](https://wad0.000webhostapp.com/images/Event_bot/Event_config1.PNG)](https://wad0.000webhostapp.com/images/Event_bot/Event_config1.PNG)
 
 /--------------------------------------------------------------------------\
 
@@ -102,6 +102,12 @@ DayLink: Adresse link to where the bot sud start looking for the events. (from c
 AddLink: When the bot doesnt find any events on the current day, it will post a embed with a link where you could add more events. Here you put this link to add events.
 
 \--------------------------------------------------------------------------/
+
+
+#### Folders
+<img>[![Event Files1](https://wad0.000webhostapp.com/images/Event_bot/Event_files1.PNG)](https://wad0.000webhostapp.com/images/Event_bot/Event_files1.PNG)
+
+Where the folders (red square around) is the months, and the month
 
 ## Join Me
 
