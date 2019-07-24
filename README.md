@@ -83,7 +83,7 @@ First of all you need to have an reachable online webserver.
 ok?
 
 #### Config json
-<img>[![Event config](https://wad0.000webhostapp.com/images/Event_bot/Event_config.PNG)](https://wad0.000webhostapp.com/images/Event_bot/Event_config.PNG)
+<img>[![Event configEm](https://wad0.000webhostapp.com/images/Event_bot/Event_configEm.PNG)](https://wad0.000webhostapp.com/images/Event_bot/Event_config.PNG)
 
 /--------------------------------------------------------------------------\
 
