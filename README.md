@@ -121,7 +121,7 @@ Here you put the current month and which day it is.
 #### Done?
 If it succesful manages to grab the events from your web server, you've done well. Only left is to set up a proper page for adding events (Php?). Just ask if you wanna see why page or need help^^
 
-### Upcoming
+### Next update
 - Instead of saving events to local file from the chat, use save to webserver.
 - Backup of bot memory
 - Easier web server setup and management
