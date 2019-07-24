@@ -33,7 +33,7 @@ Make a role so the bot can manage who can add events.
 
 
 #### 4. Config json
-<img>[![Event config](https://wad0.000webhostapp.com/images/Event_bot/Event_config.PNG)](https://wad0.000webhostapp.com/images/Event_bot/Event_config.PNG)
+<img>[![Event config](https://wad0.000webhostapp.com/images/Event_bot/Event_config1.PNG)](https://wad0.000webhostapp.com/images/Event_bot/Event_config.PNG)
 
 This file contains everything you need to mess with. Lets take each line.
 
