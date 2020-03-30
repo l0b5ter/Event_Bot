@@ -128,3 +128,8 @@ If it successfully manages to grab the events from your web server, you've done 
 
 ## Join Me
 <img>[![DiscordLink](https://wad0.000webhostapp.com/images/Logo_WiAD.png)](https://discord.io/JrHcNuE)
+
+
+
+#### Wanna support my work?                                                    
+[![Become a Patron!](https://i.imgur.com/BbE01dL.png)](https://www.patreon.com/bePatron?u=31657981)
